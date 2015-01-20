@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://rhc.dev/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> <channel> <title>Sermons</title>
+ <description>Weekly sermons from Redemption Hill Church, Singapore</description>
+ <link>http://rhc.dev/</link>
+ <atom:link rel="self" href="http://rhc.dev/podcast.rss" />
+ <language>en-uk</language>
+ <copyright>Copyright 2008-2013</copyright>
+ <webMaster>info @ rhc.org.sg</webMaster>
+ <docs>http://www.rhc.org.sg/podcast_sermons.rss</docs>
+ <pubDate>Mon, 05 Jan 2015 09:37:51 +0800</pubDate>
+ <lastBuildDate>Mon, 05 Jan 2015 09:42:44 +0800</lastBuildDate>
+ <itunes:subtitle>Weekly sermons from Redemption Hill Church, Singapore</itunes:subtitle>
+ <itunes:summary>Each weekend our church meets to hear God&#039;s Word</itunes:summary>
+ <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Christianity" />
+</itunes:category>
+ <itunes:image href="http://media.rhc.org.sg/podcast/albumartpodcast.png" />
+ <itunes:author>Redemption Hill Church</itunes:author>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:owner> <itunes:email>Simon Murphy</itunes:email>
+ <itunes:name>info@rhc.org.sg</itunes:name>
+</itunes:owner>
+ <item> <title>&lt;a href=&quot;/sermons/whose-house-are-you-building&quot;&gt;Whose House Are You Building?&lt;/a&gt;</title>
+ <author>Simon Murphy</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg150104whosehouseareyoubuilding_sm.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2015-01-04T09:30:00+08:00&quot;&gt;Sunday, January 4, 2015 - 09:30&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:author>Simon Murphy</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/heart-true-wisdom&quot;&gt;A Heart of True Wisdom&lt;/a&gt;</title>
+ <author>Jacob Ng</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg141228aheartoftruewisdom_jn.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-28T17:00:00+08:00&quot;&gt;Sunday, December 28, 2014 - 17:00&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:author>Jacob Ng</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/living-grip-gods-grace&quot;&gt;Living in the Grip of God&#039;s Grace&lt;/a&gt;</title>
+ <author>Eugene Low</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg141228livinginthegripofgodsgrace_el.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-28T11:30:00+08:00&quot;&gt;Sunday, December 28, 2014 - 11:30&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:author>Eugene Low</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/weep-no-more-worship-lamb&quot;&gt;Weep No More, Worship the Lamb!&lt;/a&gt;</title>
+ <author>Simon Murphy</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg141225christmassvc_sm.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-25T10:00:00+08:00&quot;&gt;Thursday, December 25, 2014 - 10:00&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:author>Simon Murphy</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/god-has-spoken-through-his-son&quot;&gt;God Has Spoken Through His Son&lt;/a&gt;</title>
+ <author>Simon Murphy</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg_141221godhasspokenthroughhisson_sm.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-21T11:30:00+08:00&quot;&gt;Sunday, December 21, 2014 - 11:30&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:duration>49:55</itunes:duration>
+ <itunes:author>Simon Murphy</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/restoring-king&quot;&gt;The Restoring King&lt;/a&gt;</title>
+ <author>Simon Murphy</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg_20141214_therestoringking_sm.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-14T09:30:00+08:00&quot;&gt;Sunday, December 14, 2014 - 09:30&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:duration>49:55</itunes:duration>
+ <itunes:author>Simon Murphy</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/faithless-man-faithful-god&quot;&gt;Faithless Man, Faithful God&lt;/a&gt;</title>
+ <author>Seow Aik Keong</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg_20141207_faithlessmanfaithfulgod.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-07T17:00:00+08:00&quot;&gt;Sunday, December 7, 2014 - 17:00&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:duration>50:35</itunes:duration>
+ <itunes:author>Seow Aik Keong</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/faithfulness-faithless-hope-hopeless&quot;&gt;Faithfulness for the Faithless, Hope for the Hopeless&lt;/a&gt;</title>
+ <author>Eugene Low</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhgsgel_20141207_faithfulnessforthefaithlesshopeforthehopeless_0.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-12-07T11:30:00+08:00&quot;&gt;Sunday, December 7, 2014 - 11:30&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:author>Eugene Low</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/promise-king&quot;&gt;The Promise of a King&lt;/a&gt;</title>
+ <author>Eugene Low</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg141130_thepromiseofaking_el.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-11-30T11:30:00+08:00&quot;&gt;Sunday, November 30, 2014 - 11:30&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:author>Eugene Low</itunes:author>
+</item>
+ <item> <title>&lt;a href=&quot;/sermons/promised-king&quot;&gt;The Promised King&lt;/a&gt;</title>
+ <author>Edward Sim</author>
+ <guid isPermaLink="true">http://rhc.dev/sites/default/files/mp3/rhcsg_141130_thepromisedking_sm.mp3</guid>
+ <pubDate>&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-11-30T05:00:00+08:00&quot;&gt;Sunday, November 30, 2014 - 05:00&lt;/span&gt;</pubDate>
+ <source url="http://rhc.dev/podcast.rss">Sermons</source>
+ <itunes:duration>52:09</itunes:duration>
+ <itunes:author>Edward Sim</itunes:author>
+</item>
+</channel>
+</rss>
