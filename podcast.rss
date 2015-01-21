@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://rhc.dev/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> <channel> <title>Redemption Hill Church - Sermons</title>
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://rhc.po.sg/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"> <channel> <title>Redemption Hill Church - Sermons</title>
  <description>Weekly sermons from Redemption Hill Church, Singapore</description>
- <link>http://rhc.dev/</link>
- <atom:link rel="self" href="http://rhc.dev/podcast.rss" />
+ <link>http://rhc.po.sg/</link>
+ <atom:link rel="self" href="http://rhc.po.sg/podcast.rss" />
  <language>en-uk</language>
  <category>Christianity</category>
  <copyright>Copyright 2008-2015</copyright>
  <managingEditor>info@rhc.org.sg (Simon Murphy)</managingEditor>
  <webMaster>info@rhc.org.sg (Simon Murphy)</webMaster>
  <docs>http://www.rhc.org.sg/podcast_sermons.rss</docs>
- <pubDate>Mon, 05 Jan 2015 09:37:51 +0800</pubDate>
- <lastBuildDate>Mon, 05 Jan 2015 09:42:44 +0800</lastBuildDate>
+ <pubDate>Mon, 12 Jan 2015 11:49:50 +0800</pubDate>
+ <lastBuildDate>Tue, 13 Jan 2015 18:05:04 +0800</lastBuildDate>
  <itunes:subtitle>Weekly sermons from Redemption Hill Church, Singapore</itunes:subtitle>
  <itunes:summary>Each weekend our church meets to hear God&#039;s Word</itunes:summary>
- <itunes:category text="Religion &amp; Spirituality"> <itunes:category text="Christianity" />
+ <itunes:category text="Comedy" />
+ <itunes:category text="Government &amp; Organizations"> <itunes:category text="National" />
 </itunes:category>
  <itunes:image href="http://media.rhc.org.sg/podcast/albumartpodcast.png" />
  <itunes:author>Redemption Hill Church</itunes:author>
@@ -20,109 +21,105 @@
  <itunes:owner> <itunes:email>info@rhc.org.sg</itunes:email>
  <itunes:name>Simon Murphy</itunes:name>
 </itunes:owner>
+ <item> <title>Whose Glory Are You Living For?</title>
+ <link>http://rhc.po.sg/sermons/whose-glory-are-you-living</link>
+ <description>God, through Haggai the prophet, encourages the people to be strong and build His house.  We need not fear the future, because we know the promises that God has made to us, that he is faithful to keep those promises, and that his Holy Spirit remains with us.</description>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg150111_whosegloryareyoulivingfor_jn.mp3" length="10806992" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg150111_whosegloryareyoulivingfor_jn.mp3</guid>
+ <pubDate>Sun, 11 Jan 2015 17:30 +0800</pubDate>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
+ <itunes:summary>God, through Haggai the prophet, encourages the people to be strong and build His house.  We need not fear the future, because we know the promises that God has made to us, that he is faithful to keep those promises, and that his Holy Spirit remains with us.</itunes:summary>
+ <itunes:author>Jacob Ng</itunes:author>
+</item>
+ <item> <title>Be Strong And Build!</title>
+ <link>http://rhc.po.sg/sermons/be-strong-and-build</link>
+ <description>God, through Haggai the prophet, encourages the people to be strong and build His house.  We need not fear the future, because we know the promises that God has made to us, that he is faithful to keep those promises, and that his Holy Spirit remains with us.</description>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg150111_bestrongandbuild_el.mp3" length="12893128" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg150111_bestrongandbuild_el.mp3</guid>
+ <pubDate>Sun, 11 Jan 2015 11:30 +0800</pubDate>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
+ <itunes:summary>God, through Haggai the prophet, encourages the people to be strong and build His house.  We need not fear the future, because we know the promises that God has made to us, that he is faithful to keep those promises, and that his Holy Spirit remains with us.</itunes:summary>
+ <itunes:author>Eugene Low</itunes:author>
+</item>
  <item> <title>Whose House Are You Building?</title>
- <link>http://rhc.dev/sermons/whose-house-are-you-building</link>
+ <link>http://rhc.po.sg/sermons/whose-house-are-you-building</link>
  <description>We are called to build God&#039;s house.  The pursuit of our own glory ironically destroys our ability to enjoy life, but God in love has pursued us to restore us to Him that we might glory in Him.  In this context, God sends the prophet Haggai to stir His people to return to the work of rebuilding the temple.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg150104whosehouseareyoubuilding_sm.mp3" length="12204440" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg150104whosehouseareyoubuilding_sm.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg150104_whosehouseareyoubuilding_sm.mp3" length="12204440" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg150104_whosehouseareyoubuilding_sm.mp3</guid>
  <pubDate>Sun, 04 Jan 2015 09:30 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>We are called to build God&#039;s house.  The pursuit of our own glory ironically destroys our ability to enjoy life, but God in love has pursued us to restore us to Him that we might glory in Him.  In this context, God sends the prophet Haggai to stir His people to return to the work of rebuilding the temple.</itunes:summary>
  <itunes:author>Simon Murphy</itunes:author>
 </item>
  <item> <title>A Heart of True Wisdom</title>
- <link>http://rhc.dev/sermons/heart-true-wisdom</link>
+ <link>http://rhc.po.sg/sermons/heart-true-wisdom</link>
  <description>God is eternal and glorious, while our lives on earth pass by quickly like a mist.  This awareness of the fleeting nature of life, in contrast with God&#039;s everlasting greatness and righteousness, should lead us to worship Him and live all our days for His glorious purpose.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg141228aheartoftruewisdom_jn.mp3" length="11479456" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg141228aheartoftruewisdom_jn.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141228_aheartoftruewisdom_jn.mp3" length="11479456" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141228_aheartoftruewisdom_jn.mp3</guid>
  <pubDate>Sun, 28 Dec 2014 17:00 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>God is eternal and glorious, while our lives on earth pass by quickly like a mist.  This awareness of the fleeting nature of life, in contrast with God&#039;s everlasting greatness and righteousness, should lead us to worship Him and live all our days for His glorious purpose.</itunes:summary>
  <itunes:author>Jacob Ng</itunes:author>
 </item>
  <item> <title>Living in the Grip of God&#039;s Grace</title>
- <link>http://rhc.dev/sermons/living-grip-gods-grace</link>
+ <link>http://rhc.po.sg/sermons/living-grip-gods-grace</link>
  <description>God is eternal and glorious, while our lives on earth pass by quickly like a mist.  This awareness of the fleeting nature of life, in contrast with God&#039;s everlasting greatness and righteousness, should lead us to worship Him and live all our days for His glorious purpose.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg141228livinginthegripofgodsgrace_el.mp3" length="12495770" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg141228livinginthegripofgodsgrace_el.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141228_livinginthegripofgodsgrace_el.mp3" length="12495770" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141228_livinginthegripofgodsgrace_el.mp3</guid>
  <pubDate>Sun, 28 Dec 2014 11:30 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>God is eternal and glorious, while our lives on earth pass by quickly like a mist.  This awareness of the fleeting nature of life, in contrast with God&#039;s everlasting greatness and righteousness, should lead us to worship Him and live all our days for His glorious purpose.</itunes:summary>
  <itunes:author>Eugene Low</itunes:author>
 </item>
  <item> <title>Weep No More, Worship the Lamb!</title>
- <link>http://rhc.dev/sermons/weep-no-more-worship-lamb</link>
+ <link>http://rhc.po.sg/sermons/weep-no-more-worship-lamb</link>
  <description>At Christmas we remember that Jesus came as the sacrificial Lamb to ransom us from sin and darkness.  We no longer need to be sad, but we can rejoice.  Jesus alone is worthy because he alone can redeem us.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg141225christmassvc_sm.mp3" length="7602674" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg141225christmassvc_sm.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141225_christmassvc_sm.mp3" length="7602674" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141225_christmassvc_sm.mp3</guid>
  <pubDate>Thu, 25 Dec 2014 10:00 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>At Christmas we remember that Jesus came as the sacrificial Lamb to ransom us from sin and darkness.  We no longer need to be sad, but we can rejoice.  Jesus alone is worthy because he alone can redeem us.</itunes:summary>
  <itunes:author>Simon Murphy</itunes:author>
 </item>
  <item> <title>God Has Spoken Through His Son</title>
- <link>http://rhc.dev/sermons/god-has-spoken-through-his-son</link>
+ <link>http://rhc.po.sg/sermons/god-has-spoken-through-his-son</link>
  <description>God has spoken to us fully and finally through His Son who is the exact imprint of the Father.  Jesus, the son, who is fully God, is better than prophets and angels, has worked in creation and for our redemption, and now has authority as the inheritor of the world who sits at the Father&#039;s right hand.  We should bow before Jesus in worship, and then live by faith in His name.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg_141221godhasspokenthroughhisson_sm.mp3" length="12280750" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg_141221godhasspokenthroughhisson_sm.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141221_godhasspokenthroughhisson_sm.mp3" length="21677580" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141221_godhasspokenthroughhisson_sm.mp3</guid>
  <pubDate>Sun, 21 Dec 2014 11:30 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>God has spoken to us fully and finally through His Son who is the exact imprint of the Father.  Jesus, the son, who is fully God, is better than prophets and angels, has worked in creation and for our redemption, and now has authority as the inheritor of the world who sits at the Father&#039;s right hand.  We should bow before Jesus in worship, and then live by faith in His name.</itunes:summary>
- <itunes:duration>49:55</itunes:duration>
  <itunes:author>Simon Murphy</itunes:author>
 </item>
  <item> <title>The Restoring King</title>
- <link>http://rhc.dev/sermons/restoring-king</link>
+ <link>http://rhc.po.sg/sermons/restoring-king</link>
  <description>God will act to restore a true King in the line of David that will restore His people and usher in a hope for the nations that will never be thwarted.  </description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg_20141214_therestoringking_sm.mp3" length="12415482" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg_20141214_therestoringking_sm.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141214_therestoringking_sm.mp3" length="12415482" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141214_therestoringking_sm.mp3</guid>
  <pubDate>Sun, 14 Dec 2014 09:30 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>God will act to restore a true King in the line of David that will restore His people and usher in a hope for the nations that will never be thwarted.  </itunes:summary>
- <itunes:duration>49:55</itunes:duration>
  <itunes:author>Simon Murphy</itunes:author>
 </item>
  <item> <title>Faithless Man, Faithful God</title>
- <link>http://rhc.dev/sermons/faithless-man-faithful-god</link>
+ <link>http://rhc.po.sg/sermons/faithless-man-faithful-god</link>
  <description>Although God’s people are faithless, he remains faithful to his covenant promises. He will save his people through his King and Priest, who shall rule with justice and righteousness.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg_20141207_faithlessmanfaithfulgod.mp3" length="12170172" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg_20141207_faithlessmanfaithfulgod.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141207_faithlessmanfaithfulgod_ak.mp3" length="12170172" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141207_faithlessmanfaithfulgod_ak.mp3</guid>
  <pubDate>Sun, 07 Dec 2014 17:00 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>Although God’s people are faithless, he remains faithful to his covenant promises. He will save his people through his King and Priest, who shall rule with justice and righteousness.</itunes:summary>
- <itunes:duration>50:35</itunes:duration>
  <itunes:author>Seow Aik Keong</itunes:author>
 </item>
  <item> <title>Faithfulness for the Faithless, Hope for the Hopeless</title>
- <link>http://rhc.dev/sermons/faithfulness-faithless-hope-hopeless</link>
+ <link>http://rhc.po.sg/sermons/faithfulness-faithless-hope-hopeless</link>
  <description>Although God’s people are faithless, he remains faithful to his covenant promises. He will save his people through his King and Priest, who shall rule with justice and righteousness.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhgsgel_20141207_faithfulnessforthefaithlesshopeforthehopeless_0.mp3" length="23936440" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhgsgel_20141207_faithfulnessforthefaithlesshopeforthehopeless_0.mp3</guid>
+ <enclosure url="http://rhc.po.sg/sites/default/files/mp3/rhcsg141207_faithfulnessforthefaithlesshopeforthehopeless_el.mp3" length="23936440" type="audio/mpeg" />
+ <guid isPermaLink="false">http://rhc.po.sg/sites/default/files/mp3/rhcsg141207_faithfulnessforthefaithlesshopeforthehopeless_el.mp3</guid>
  <pubDate>Sun, 07 Dec 2014 11:30 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
+ <source url="http://rhc.po.sg/podcast.rss">Redemption Hill Church - Sermons</source>
  <itunes:summary>Although God’s people are faithless, he remains faithful to his covenant promises. He will save his people through his King and Priest, who shall rule with justice and righteousness.</itunes:summary>
  <itunes:author>Eugene Low</itunes:author>
-</item>
- <item> <title>The Promise of a King</title>
- <link>http://rhc.dev/sermons/promise-king</link>
- <description>God will raise up an offspring of David to rule as king of God’s kingdom forever. This promised king will rule with righteousness, and bring about peace and rest for the people of God.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg141130_thepromiseofaking_el.mp3" length="22141096" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg141130_thepromiseofaking_el.mp3</guid>
- <pubDate>Sun, 30 Nov 2014 11:30 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
- <itunes:summary>God will raise up an offspring of David to rule as king of God’s kingdom forever. This promised king will rule with righteousness, and bring about peace and rest for the people of God.</itunes:summary>
- <itunes:author>Eugene Low</itunes:author>
-</item>
- <item> <title>The Promised King</title>
- <link>http://rhc.dev/sermons/promised-king</link>
- <description>God will raise up an offspring of David to rule as king of God’s kingdom forever. This promised king will rule with righteousness, and bring about peace and rest for the people of God.</description>
- <enclosure url="http://rhc.dev/sites/default/files/mp3/rhcsg_141130_thepromisedking_sm.mp3" length="12644022" type="audio/mpeg" />
- <guid isPermaLink="false">http://rhc.dev/sites/default/files/mp3/rhcsg_141130_thepromisedking_sm.mp3</guid>
- <pubDate>Sun, 30 Nov 2014 05:00 +0800</pubDate>
- <source url="http://rhc.dev/podcast.rss">Redemption Hill Church - Sermons</source>
- <itunes:summary>God will raise up an offspring of David to rule as king of God’s kingdom forever. This promised king will rule with righteousness, and bring about peace and rest for the people of God.</itunes:summary>
- <itunes:duration>52:09</itunes:duration>
- <itunes:author>Edward Sim</itunes:author>
 </item>
 </channel>
 </rss>
