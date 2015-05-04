@@ -15,58 +15,58 @@
  <itunes:name>John Smith</itunes:name>
 </itunes:owner>
  <item> <title>Podcast Test #5</title>
- <link>/node/93</link>
- <description>&lt;p&gt;Comis elit humo nibh proprius quidne similis. Autem bene esse obruo sed.&lt;/p&gt;</description>
+ <link>http://sandbox.dev/node/93</link>
+ <description>Comis elit humo nibh proprius quidne similis. Autem bene esse obruo sed.</description>
  <enclosure url="http://sandbox.dev/sites/default/files/audio/test%205.mp3" length="101760" type="audio/mpeg" />
  <guid isPermaLink="false">http://sandbox.dev/sites/default/files/audio/test%205.mp3</guid>
  <pubDate>Mon, 04 May 2015 04:17:34 +0800</pubDate>
  <source url="http://sandbox.dev/podcast.rss">sandbox.dev</source>
- <itunes:subtitle>&lt;p&gt;Comis elit humo nibh proprius quidne similis. Autem bene esse obruo sed.&lt;/p&gt;</itunes:subtitle>
- <itunes:summary>&lt;p&gt;Comis elit humo nibh proprius quidne similis. Autem bene esse obruo sed.&lt;/p&gt;</itunes:summary>
+ <itunes:subtitle>Comis elit humo nibh proprius quidne similis. Autem bene esse obruo sed.</itunes:subtitle>
+ <itunes:summary>Comis elit humo nibh proprius quidne similis. Autem bene esse obruo sed.</itunes:summary>
  <itunes:duration>0:06</itunes:duration>
 </item>
  <item> <title>Podcast Test #3</title>
- <link>/node/95</link>
- <description>&lt;p&gt;At defui huic incassum nulla sed sit ut utrum.&lt;/p&gt;</description>
+ <link>http://sandbox.dev/node/95</link>
+ <description>At defui huic incassum nulla sed sit ut utrum.</description>
  <enclosure url="http://sandbox.dev/sites/default/files/audio/test%203_0.mp3" length="101760" type="audio/mpeg" />
  <guid isPermaLink="false">http://sandbox.dev/sites/default/files/audio/test%203_0.mp3</guid>
  <pubDate>Sun, 03 May 2015 10:00:59 +0800</pubDate>
  <source url="http://sandbox.dev/podcast.rss">sandbox.dev</source>
- <itunes:subtitle>&lt;p&gt;At defui huic incassum nulla sed sit ut utrum.&lt;/p&gt;</itunes:subtitle>
- <itunes:summary>&lt;p&gt;At defui huic incassum nulla sed sit ut utrum.&lt;/p&gt;</itunes:summary>
+ <itunes:subtitle>At defui huic incassum nulla sed sit ut utrum.</itunes:subtitle>
+ <itunes:summary>At defui huic incassum nulla sed sit ut utrum.</itunes:summary>
  <itunes:duration>0:06</itunes:duration>
 </item>
  <item> <title>Podcast Test #2</title>
- <link>/node/96</link>
- <description>&lt;p&gt;Esse et eum exerci exputo iriure suscipere vereor. Ex quia uxor vereor. Autem dolore lenis.&lt;/p&gt;</description>
+ <link>http://sandbox.dev/node/96</link>
+ <description>Esse et eum exerci exputo iriure suscipere vereor. Ex quia uxor vereor. Autem dolore lenis.</description>
  <enclosure url="http://sandbox.dev/sites/default/files/audio/test%202_0.mp3" length="101760" type="audio/mpeg" />
  <guid isPermaLink="false">http://sandbox.dev/sites/default/files/audio/test%202_0.mp3</guid>
  <pubDate>Sat, 02 May 2015 14:11:02 +0800</pubDate>
  <source url="http://sandbox.dev/podcast.rss">sandbox.dev</source>
- <itunes:subtitle>&lt;p&gt;Esse et eum exerci exputo iriure suscipere vereor. Ex quia uxor vereor. Autem dolore lenis.&lt;/p&gt;</itunes:subtitle>
- <itunes:summary>&lt;p&gt;Esse et eum exerci exputo iriure suscipere vereor. Ex quia uxor vereor. Autem dolore lenis.&lt;/p&gt;</itunes:summary>
+ <itunes:subtitle>Esse et eum exerci exputo iriure suscipere vereor. Ex quia uxor vereor. Autem dolore lenis.</itunes:subtitle>
+ <itunes:summary>Esse et eum exerci exputo iriure suscipere vereor. Ex quia uxor vereor. Autem dolore lenis.</itunes:summary>
  <itunes:duration>0:06</itunes:duration>
 </item>
  <item> <title>Podcast Test #1</title>
- <link>/node/97</link>
- <description>&lt;p&gt;Consequat fere pagus pneum qui quidne velit vero. Occuro patria qui secundum.&lt;/p&gt;</description>
+ <link>http://sandbox.dev/node/97</link>
+ <description>Consequat fere pagus pneum qui quidne velit vero. Occuro patria qui secundum.</description>
  <enclosure url="http://sandbox.dev/sites/default/files/audio/test_1.mp3" length="101760" type="audio/mpeg" />
  <guid isPermaLink="false">http://sandbox.dev/sites/default/files/audio/test_1.mp3</guid>
  <pubDate>Thu, 30 Apr 2015 06:39:16 +0800</pubDate>
  <source url="http://sandbox.dev/podcast.rss">sandbox.dev</source>
- <itunes:subtitle>&lt;p&gt;Consequat fere pagus pneum qui quidne velit vero. Occuro patria qui secundum.&lt;/p&gt;</itunes:subtitle>
- <itunes:summary>&lt;p&gt;Consequat fere pagus pneum qui quidne velit vero. Occuro patria qui secundum.&lt;/p&gt;</itunes:summary>
+ <itunes:subtitle>Consequat fere pagus pneum qui quidne velit vero. Occuro patria qui secundum.</itunes:subtitle>
+ <itunes:summary>Consequat fere pagus pneum qui quidne velit vero. Occuro patria qui secundum.</itunes:summary>
  <itunes:duration>0:06</itunes:duration>
 </item>
  <item> <title>Podcast Test #4</title>
- <link>/node/94</link>
- <description>&lt;p&gt;At camur dignissim luctus nulla rusticus sudo.&lt;/p&gt;</description>
+ <link>http://sandbox.dev/node/94</link>
+ <description>At camur dignissim luctus nulla rusticus sudo.</description>
  <enclosure url="http://sandbox.dev/sites/default/files/audio/test%204.mp3" length="101760" type="audio/mpeg" />
  <guid isPermaLink="false">http://sandbox.dev/sites/default/files/audio/test%204.mp3</guid>
  <pubDate>Tue, 28 Apr 2015 22:02:08 +0800</pubDate>
  <source url="http://sandbox.dev/podcast.rss">sandbox.dev</source>
- <itunes:subtitle>&lt;p&gt;At camur dignissim luctus nulla rusticus sudo.&lt;/p&gt;</itunes:subtitle>
- <itunes:summary>&lt;p&gt;At camur dignissim luctus nulla rusticus sudo.&lt;/p&gt;</itunes:summary>
+ <itunes:subtitle>At camur dignissim luctus nulla rusticus sudo.</itunes:subtitle>
+ <itunes:summary>At camur dignissim luctus nulla rusticus sudo.</itunes:summary>
  <itunes:duration>0:06</itunes:duration>
 </item>
 </channel>
