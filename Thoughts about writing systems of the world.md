@@ -1,6 +1,4 @@
-# Thoughts about writing systems of the world
-
-There was a discussion recently on the Alphabettes slack channel about the phrase ‘Latin-type‘ when [Sahar Afshar](https://twitter.com/sahafshar) asked the question of what would be a good alternative to the phrase ‘non-Latin type‘. It got me thinking, because I realised I did not have a good alternative to that phrase at all.
+There was a discussion recently among the Bettes about the phrase ‘Latin-type‘ when [Sahar Afshar](https://twitter.com/sahafshar) asked the question of what would be a good alternative to the phrase ‘non-Latin type‘. It got me thinking, because I realised I did not have a good alternative to that phrase at all.
 
 We had several suggestions, like ‘global scripts’, ‘world scripts’, even ‘across scripts’ (to include fictional unworldly scripts), but the key point here was that Latin scripts are generally viewed as the default. Most of the literature and discourse on typography we have today is Latin-centric to begin with. To ask the question of why this is so, inevitably will bring us to the topic of power and influence on a global scale.
 
@@ -32,6 +30,9 @@ Which brings me to my next point of the role of religion in the spread of langua
 [Steven Dutch](https://www.uwgb.edu/dutchs/) made the distinction between forest societies and desert societies, referring to societies that exist in environments where resources like food and water are plentiful versus those that survive under harsh, dry conditions where resources are scarce, respectively. He observed the pattern that societies of plenty tend to be more tolerant than those of scarcity.
 
 The monotheistic religions that dominate the world today originated from desert environments. Such harsh conditions promote binary thinking in terms of definitive cause and effect, for example, if you do not find water, you will die. In essence, viewing survival as a zero-sum game. It could be such an environment that encouraged these religions to actively proselytise and even wage wars in the name of their beliefs.
+
+> Hester, I've seen people try to divide the world. Simplify it. Create clear rules. I understand why you want to. But it leads to nothing good.  
+<small>— Max, [Channel 4's Humans](http://www.channel4.com/programmes/humans)</small>
 
 Dutch also suggests that the ”hard-headed dualism born of the desert, moderated somewhat so that the obsession with patriarchy and status is somewhat diluted, might be just what would be needed to permit the emergence of science.“ Just one of many theories to why the Scientific Revolution occurred in Europe, but it does seem reasonably plausible.
 
